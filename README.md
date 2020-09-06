@@ -1,4 +1,4 @@
 Sokoban
 
-Projekt studencki, napisany w ramach przedmiotu Podstawy Programowania.
-Język: C/C++
+Student project, simple game based on popular game called Sokoban.
+Language: C/C++
